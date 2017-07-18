@@ -12,6 +12,7 @@ Note about Introduction to MDN
 5. https://developer.mozilla.org/en-US/docs/Web/HTML
 6. 
 
-### Slides:
+### Slides HTML:
 
-1. HTML: http://webdev.slides.com/coltsteele/deck-7-50#/
+1. http://webdev.slides.com/coltsteele/deck-7-50#/
+2. http://webdev.slides.com/coltsteele/deck-8-51#/8
